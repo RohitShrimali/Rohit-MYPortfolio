@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Rohit-MYPortfolio/static/css/main.6026bec5.css",
+    "main.js": "/Rohit-MYPortfolio/static/js/main.9fa8bbf5.js",
+    "static/media/41.jpg": "/Rohit-MYPortfolio/static/media/41.bf2e9bf690725ac0057f.jpg",
+    "static/media/recipes-website.png": "/Rohit-MYPortfolio/static/media/recipes-website.f3aade9554840dcceef4.png",
+    "static/media/Rohit.pdf": "/Rohit-MYPortfolio/static/media/Rohit.268d2db668b49cc742f8.pdf",
+    "static/media/65.jpg": "/Rohit-MYPortfolio/static/media/65.1bced2fbb767710cdae3.jpg",
+    "static/media/66.jpg": "/Rohit-MYPortfolio/static/media/66.5fb06fa72412478047f3.jpg",
+    "static/media/63.jpg": "/Rohit-MYPortfolio/static/media/63.47720654805731106ae7.jpg",
+    "static/media/bg3.jpg": "/Rohit-MYPortfolio/static/media/bg3.b1e740bbb7a09aac0512.jpg",
+    "static/media/my.jpg": "/Rohit-MYPortfolio/static/media/my.1a541de7abb0cc86ab2a.jpg",
+    "static/media/dev-bhabhi.jpg": "/Rohit-MYPortfolio/static/media/dev-bhabhi.d54a7c1ac609af34fc68.jpg",
+    "static/media/bhaiya-bhabhi-2.jpg": "/Rohit-MYPortfolio/static/media/bhaiya-bhabhi-2.4440cadc7078244e83ac.jpg",
+    "static/media/Snapchat-466985470.jpg": "/Rohit-MYPortfolio/static/media/Snapchat-466985470.fb1692c769f2fcc2bf61.jpg",
+    "static/media/logo.png": "/Rohit-MYPortfolio/static/media/logo.b04e3cae99f90d6029eb.png",
+    "index.html": "/Rohit-MYPortfolio/index.html",
+    "main.6026bec5.css.map": "/Rohit-MYPortfolio/static/css/main.6026bec5.css.map",
+    "main.9fa8bbf5.js.map": "/Rohit-MYPortfolio/static/js/main.9fa8bbf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6026bec5.css",
+    "static/js/main.9fa8bbf5.js"
+  ]
+}
